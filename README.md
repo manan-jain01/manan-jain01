@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mananjain1591@gmail.com**
 
-- ⚡ Fun fact **Can't believe it's me**
+- ⚡ Fun fact ** I can't believe it's me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
