@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manan jain</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img =“https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 - 📫 How to reach me **mananjain1591@gmail.com**
 
 - ⚡ Fun fact **Can't believe it's me**
